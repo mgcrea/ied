@@ -20,7 +20,7 @@ const targets = [
 ]
 
 const buildTargets = [
-	'dtrace-provider'
+	'ursa'
 ]
 
 const fileTargets = [
